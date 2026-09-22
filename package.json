@@ -1,0 +1,18 @@
+{
+  "name": "@superinstance/cell-doctrine",
+  "version": "0.1.0",
+  "description": "The cell doctrine: a cell is the system, not the data; the watch oscillates between universal and particular.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "keywords": [
+    "cell",
+    "doctrine",
+    "substrate",
+    "canon"
+  ],
+  "author": "SuperInstance",
+  "license": "MIT",
+  "dependencies": {
+    "@superinstance/observation-primitive": "file:../observation-primitive"
+  }
+}
